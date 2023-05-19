@@ -1,5 +1,8 @@
-/*  your css code here. If applicable */
-.pp{
+.pp {
     color: #00f;
-    background-color:#eee ;
+    background-color: #eee;
+}
+
+.selector {
+    color: #00f;
 }
